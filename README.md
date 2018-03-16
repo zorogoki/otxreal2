@@ -1,4 +1,4 @@
-# otxreal2Gesior-AAC editado originalmente por Felipe Monteiro e fixado por mim Marco Oliveira.</p>
+Gesior-AAC editado originalmente por Felipe Monteiro e fixado por mim Marco Oliveira.</p>
 Site tem como foco seguir o layout oficial da cipsoft e atender as necessidades da cominidade open-tibia.
 
 Nosso site está aberto oficialmente em www.malveraglobal.com.br onde pode ser visualizado por completo.
